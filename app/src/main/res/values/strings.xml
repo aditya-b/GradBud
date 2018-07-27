@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Grad Bud</string>
+    <string name="action_settings">Settings</string>
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_edit_profile">EditProfile</string>
+    <string name="title_activity_change_password">ChangePassword</string>
+    <string name="title_activity_teach_dashboard">TeachDashboard</string>
+    <string name="title_activity_mark_attendance">MarkAttendance</string>
+    <string name="title_activity_give_assignment">give_assignment</string>
+    <string name="title_activity_mark_assignment">MarkAssignment</string>
+    <string name="title_activity_create_pin">CreatePin</string>
+    <string name="title_activity_upload_marks">UploadMarks</string>
+    <string name="title_activity_example">Example</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_start">StartActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

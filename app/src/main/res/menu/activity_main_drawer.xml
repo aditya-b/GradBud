@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group>
+        <item
+            android:id="@+id/nav_time_table"
+            android:icon="@mipmap/ic_today_black_24dp"
+            android:title="Time Table" />
+        <item
+            android:id="@+id/nav_assignments"
+            android:icon="@mipmap/ic_assignment_black_24dp"
+            app:actionViewClass="android.widget.TextView"
+            android:title="Assignments" />
+        <item
+            android:id="@+id/nav_attendance"
+            android:icon="@mipmap/ic_assessment_black_24dp"
+            app:actionViewClass="android.widget.TextView"
+            android:title="Attendance" />
+        <item
+            android:id="@+id/nav_marks"
+            android:icon="@mipmap/ic_timeline_black_24dp"
+            android:title="Marks" />
+        <item
+            android:id="@+id/nav_edit_profile"
+            android:icon="@mipmap/ic_https_black_24dp"
+            android:title="Change Password/PIN" />
+    </group>
+
+    <item android:title="Contact Us?">
+        <menu>
+            <item
+                android:id="@+id/nav_report"
+                android:icon="@mipmap/ic_report_black_24dp"
+                android:title="Report"/>
+            <item
+                android:id="@+id/nav_faq"
+                android:icon="@mipmap/ic_help_black_24dp"
+                android:title="FAQ" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@mipmap/ic_share_black_24dp"
+                android:title="Share"/>
+            <item
+                android:id="@+id/nav_dev"
+                android:icon="@mipmap/ic_error_black_24dp"
+                android:title="About"/>
+        </menu>
+    </item>
+
+</menu>
